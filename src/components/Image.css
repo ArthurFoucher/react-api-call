@@ -1,0 +1,7 @@
+.Image {
+  display: inline-block;
+  width: 5%;
+}
+.Image img {
+  width: 100%;
+}
